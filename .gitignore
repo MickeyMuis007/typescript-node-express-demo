@@ -1,5 +1,8 @@
 .vscode/tasks.json
 
+# Exclude compiled files
+dist/
+
 # Logs
 logs
 *.log
